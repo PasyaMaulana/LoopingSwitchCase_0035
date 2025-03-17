@@ -6,8 +6,8 @@ using namespace std;
 int main()
 {
     int n;
-    int perulanganWhile;
-    int perulanganDo;
+    int perulanganWhile = 0;
+    int perulanganDo = 0;
 
     // perulangan dengan for
 
